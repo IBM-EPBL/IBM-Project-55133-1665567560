@@ -12,3 +12,4 @@ Smart Fashion Recommender Application
 Assignment
 Project design and planning
 tech stack
+.
