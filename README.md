@@ -1,16 +1,16 @@
 #  IBM-Project-55133-1665567560
 Smart Fashion Recommender Application
 # Category:Cloud application Development
- # team size:5
- team
- <ol one by one>leader:swetha
- member 1:kotteeswaran
- member 2:mugeshwari
- member 3:vignesh
- member 4:vijay
- </ol>
- <ol>project topics
-1: Assignment
-2:Project design and planning
-3:tech stack
-</ol>
+Team ID : PNT2022TMID38912
+
+Team Size : 5
+
+Team Leader : S.SWETHA
+
+Team member : G.KOTTEESWARAN
+
+Team member : K.MUGESHWARI
+
+Team member : D.VIGNESH
+
+Team member : T.VIJAY
