@@ -3,7 +3,7 @@ Smart Fashion Recommender Application
 # Category:Cloud application Development
  # team size:5
  team
- <ol>leader:swetha
+ <ol one by one>leader:swetha
  member 1:kotteeswaran
  member 2:mugeshwari
  member 3:vignesh
