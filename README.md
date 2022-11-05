@@ -27,7 +27,11 @@ Branch : Computer Science Engineering & Electrical and Communication Engineering
 College : 5114-OXFORD COLLEGE OF ENGINEERING
 
 PROJECT TOPICS
+
 Assignment
+
 Project pre-development phase
+
 Project Design & Planning
+
 Project Planning
