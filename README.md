@@ -2,13 +2,15 @@
 Smart Fashion Recommender Application
 # Category:Cloud application Development
  # team size:5
- # team leader:Swetha
- # team member:kotteeswaran
- # team member:vignesh
- # team member:vijay
- # team member:Mugeshwari
- # project topics
-# Assignment
-# Project design and planning
-# tech stack
-.
+ team
+ <ol>leader:swetha
+ member 1:kotteeswaran
+ member 2:mugeshwari
+ member 3:vignesh
+ member 4:vijay
+ </ol>
+ <ol>project topics
+1: Assignment
+2:Project design and planning
+3:tech stack
+</ol>
