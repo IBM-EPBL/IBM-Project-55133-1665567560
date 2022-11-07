@@ -1,3 +1,5 @@
+[TeamScore-2022-11-07104854.xls](https://github.com/IBM-EPBL/IBM-Project-55133-1665567560/files/9948893/TeamScore-2022-11-07104854.xls)
+[TeamScore-2022-11-07104854.xls](https://github.com/IBM-EPBL/IBM-Project-55133-1665567560/files/9948894/TeamScore-2022-11-07104854.xls)
 #  IBM-Project-55133-1665567560
 Smart Fashion Recommender Application
 # Category:Cloud application Development
